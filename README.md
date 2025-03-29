@@ -152,6 +152,8 @@ p.note { display: none; }
 <a href="20250328_019.JPG" target="_blank"><img src="20250328_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250328_020.JPG" target="_blank"><img src="20250328_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250328_021.JPG" target="_blank"><img src="20250328_021.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">他の木も蕾が膨らみ始めました</span></h2>
 <a href="20250328_022.JPG" target="_blank"><img src="20250328_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250328_023.JPG" target="_blank"><img src="20250328_023.JPG" alt="サンプル画像" width="900" /></a>
     
